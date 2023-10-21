@@ -1,1 +1,1 @@
-# javaKata
+# Kata in Java
