@@ -8,3 +8,7 @@ public class booleanFuel {
         return (mpg * fuelLeft) >= distanceToPump;
     }
 }
+
+// notes - nice solution using the ternary operator
+// boolean answer = (mpg * fuelLeft) >= distanceToPump ? true : false;
+// return answer;
